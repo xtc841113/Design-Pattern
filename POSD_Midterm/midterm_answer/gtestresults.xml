@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="10" failures="0" disabled="0" errors="0" timestamp="2018-10-28T12:02:41" time="0.001" name="AllTests">
+  <testsuite name="Ellipse_Perimeter" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Ellipse_Perimeter" />
+  </testsuite>
+  <testsuite name="Ellipse_Area" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Ellipse_Area" />
+  </testsuite>
+  <testsuite name="ComplexShapes_Perimeter" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="ComplexShapes_Perimeter" />
+  </testsuite>
+  <testsuite name="ComplexShapes_Area" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="ComplexShapes_Area" />
+  </testsuite>
+  <testsuite name="ComplexShapes_ChildOperation" tests="1" failures="0" disabled="0" errors="0" time="0.001">
+    <testcase name="" status="run" time="0.001" classname="ComplexShapes_ChildOperation" />
+  </testsuite>
+  <testsuite name="Visitor_FindAreaInLeaf" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Visitor_FindAreaInLeaf" />
+  </testsuite>
+  <testsuite name="Visitor_FindAreaInComposite" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Visitor_FindAreaInComposite" />
+  </testsuite>
+  <testsuite name="Visitor_FindAreaInNestedComposite" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Visitor_FindAreaInNestedComposite" />
+  </testsuite>
+  <testsuite name="Visitor_InitialAcceptWhenFunctionCall" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Visitor_InitialAcceptWhenFunctionCall" />
+  </testsuite>
+  <testsuite name="Visitor_VisitDifferentComposite" tests="1" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="" status="run" time="0" classname="Visitor_VisitDifferentComposite" />
+  </testsuite>
+</testsuites>
